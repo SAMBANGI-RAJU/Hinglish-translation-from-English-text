@@ -49,3 +49,10 @@ python app.py
 
 ![Screenshot (187)](https://github.com/SAMBANGI-RAJU/Hinglish-translation-from-English-text/assets/115488085/db2df687-0e47-44d5-a229-85418aa1b2db)
 
+## Demo
+
+https://github.com/SAMBANGI-RAJU/Hinglish-translation-from-English-text/assets/115488085/674b8190-a34e-492f-9ce4-51daba77745a
+
+
+
+
