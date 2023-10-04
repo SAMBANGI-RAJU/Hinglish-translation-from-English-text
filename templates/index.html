@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>English to Hindi Translator</title>
+    <style>
+        body{
+            background-color: #2E4374;
+            overflow-y: hidden;
+        }
+        h1{
+            color: red;
+        }
+        div{
+            display: flex;
+            margin: 0 20%;
+            padding: 3% 0;
+            flex-direction: column;
+            align-items: center;
+            color: #fff;
+            justify-content: center;
+            background-color: rgba(0,0,0,0.4);
+            border-radius: 30px;
+        }
+
+       form{
+        width: 60%;
+        text-align: center;
+        padding: 20px;
+       }
+       
+       textarea{
+        border: 2px solid black;
+       }
+       .btn{
+        background-color: blue;
+        color: #fff;
+        border-radius: 10px;
+        padding: 5px;
+        border: none;
+       }
+       p{
+        width: 60%;
+        text-align: justify;
+        text-justify: inter-word;
+       }
+    </style>
+</head>
+<body>
+  
+    <div>
+        <h1>Hinglish translation from English text</h1>
+    <form method="POST">
+        <label for="english_sentence">Enter an English sentence:</label><br><br>
+        <textarea  name="english_sentence" id="english_sentence" cols="35" rows="8" placeholder="Enter text..."></textarea><br><br>
+        <input type="submit" class="btn" value="Translate">
+    </form>
+    <h2>Translated Sentence:</h2>
+    <p>{{ translated_result }}</p>
+    
+    </div>    
+
+ 
+    
+
+</body>
+
+</html>
