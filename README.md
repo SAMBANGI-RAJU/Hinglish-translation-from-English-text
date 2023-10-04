@@ -16,8 +16,3 @@ You can install the required libraries using `pip`:
 pip install spacy googletrans==4.0.0-rc1
 python -m spacy download en_core_web_sm
 
-Usage
-Clone this repository to your local machine.
-```bash
-git clone https://github.com/your-username/english-to-hindi-translator.git
-cd english-to-hindi-translator
