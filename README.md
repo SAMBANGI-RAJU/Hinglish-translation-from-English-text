@@ -14,7 +14,6 @@ The project directory structure looks like this:
 Assignment/ 
 
   ├── app.py
-  
   ├── templates/
   │   └── index.html
   ├── static/
