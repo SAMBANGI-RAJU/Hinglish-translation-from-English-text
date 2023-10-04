@@ -16,3 +16,4 @@ You can install the required libraries using `pip`:
 pip install spacy googletrans==4.0.0-rc1
 python -m spacy download en_core_web_sm
 
+# Usage
