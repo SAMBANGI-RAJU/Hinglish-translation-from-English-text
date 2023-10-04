@@ -12,7 +12,9 @@ Before running the project, ensure you have the following prerequisites installe
 ## Project Structure
 The project directory structure looks like this:
 Assignment/ 
+
   ├── app.py
+  
   ├── templates/
   │   └── index.html
   ├── static/
