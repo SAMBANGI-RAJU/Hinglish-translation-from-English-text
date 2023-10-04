@@ -30,3 +30,13 @@ project_folder/
     |
     └── translation_code.py
 
+`app.py: Contains the Flask application code.
+``templates/index.html: The HTML template for the translation interface.
+``static/: A directory for static files (e.g., CSS, JavaScript), if needed.
+`translation_code.py: Contains the translation logic
+
+## Usage
+1. Clone this repository to your local machine or download the source code.
+2. Navigate to the project directory.
+3. Run the Flask application:
+
