@@ -19,12 +19,12 @@ The project structure should look like this:
 project_folder/
 
     ├── app.py
-    
+    |
     ├── templates/
-    
+    |   |
     │   └── index.html
-    
+    |
     ├── static/
-    
+    |
     └── translation_code.py
 
