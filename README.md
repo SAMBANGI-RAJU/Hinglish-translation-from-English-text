@@ -9,6 +9,16 @@ Before running the project, ensure you have the following prerequisites installe
 - Python 3.x
 - `spacy` library
 - `googletrans` library
+## Project Structure
+The project directory structure looks like this:
+Assignment/ 
+  ├── app.py
+  ├── templates/
+  │   └── index.html
+  ├── static/
+  ├── translation_code.py
+  └── README.md
+
 
 You can install the required libraries using `pip`:
 
