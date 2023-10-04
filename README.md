@@ -11,8 +11,10 @@ Before running the project, ensure that you have the following dependencies inst
 You can install the required libraries using pip:
 
 
-"""pip install Flask spacy googletrans==4.0.0-rc1
-python -m spacy download en_core_web_sm"""
+```bash
+pip install Flask spacy googletrans==4.0.0-rc1
+python -m spacy download en_core_web_sm
+```
 
 ## Project Structure
 The project structure should look like this:
