@@ -30,13 +30,18 @@ project_folder/
     |
     └── translation_code.py
 
-`app.py: Contains the Flask application code.
-``templates/index.html: The HTML template for the translation interface.
-``static/: A directory for static files (e.g., CSS, JavaScript), if needed.
-`translation_code.py: Contains the translation logic
+1. app.py: Contains the Flask application code.
+2. templates/index.html: The HTML template for the translation interface.
+3. static/: A directory for static files (e.g., CSS, JavaScript), if needed.
+4. translation_code.py: Contains the translation logic
 
 ## Usage
 1. Clone this repository to your local machine or download the source code.
 2. Navigate to the project directory.
 3. Run the Flask application:
-
+```bash
+python app.py
+```
+4. Open a web browser and go to http://127.0.0.1:5000.
+5. Enter an English sentence in the input field and click "Translate."
+6. The translated sentence will be displayed on the web page.
