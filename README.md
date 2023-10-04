@@ -45,3 +45,7 @@ python app.py
 4. Open a web browser and go to http://127.0.0.1:5000.
 5. Enter an English sentence in the input field and click "Translate."
 6. The translated sentence will be displayed on the web page.
+
+
+![Screenshot (187)](https://github.com/SAMBANGI-RAJU/Hinglish-translation-from-English-text/assets/115488085/db2df687-0e47-44d5-a229-85418aa1b2db)
+
